@@ -1,0 +1,4 @@
+com\cucco\stipendi\utility\Config.class
+com\cucco\stipendi\utility\ParameterReader.class
+com\cucco\stipendi\servlet\Starter.class
+com\cucco\stipendi\utility\Utility.class

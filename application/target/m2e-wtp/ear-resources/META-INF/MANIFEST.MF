@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Implementation-Title: Stipendi - Application
+Implementation-Version: 1.0.0
+Built-By: 
+Built-Date: 2022-07-15T16:12:21Z
+Specification-Title: Stipendi - Application
+Implementation-Vendor-Id: com.cucco
+Branch: 
+Version: 1.0.0
+Version-Spec: 
+User-Name: giovanni
+Build-Jdk: 1.8.0_221
+Specification-Version: 1.0.0
+Created-By: Maven Integration for Eclipse
+Customer: Default
+

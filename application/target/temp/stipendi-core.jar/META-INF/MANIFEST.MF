@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+Implementation-Title: Stipendi - Core
+Implementation-Version: 1.0.0
+Archiver-Version: Plexus Archiver
+Built-By: 
+Built-Date: 2022-07-15T16:12:07Z
+Specification-Title: Stipendi - Core
+Implementation-Vendor-Id: com.cucco
+Class-Path: libs/stipendi-interface.jar libs/log4j-jcl.jar libs/common
+ s-logging.jar libs/log4j-slf4j-impl.jar libs/slf4j-api.jar libs/log4j
+ -jul.jar libs/log4j-api.jar libs/log4j-core.jar libs/log4j-1.2-api.ja
+ r
+Branch: 
+Version: 1.0.0
+Version-Spec: 
+User-Name: giovanni
+Created-By: Apache Maven 3.6.1
+Build-Jdk: 1.8.0_221
+Specification-Version: 1.0.0
+Customer: Default
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration monitorInterval="30">
+	<Appenders>
+		<RollingFile name="RollingFileAppender" fileName="${sys:logfile.path}/stipendi/stipendi.log" filePattern="${sys:logfile.path}/stipendi/stipendi.%d{yyyy-MM-dd-HH}.log">
+			<PatternLayout pattern="%d{DEFAULT} | %-5.5level | %-30.30C{2} | %X{logId} | %msg%n" />
+			<Policies>
+				<TimeBasedTriggeringPolicy />
+			</Policies>
+		</RollingFile>
+	</Appenders>
+	<Loggers>
+		<Root level="off" />
+	</Loggers>
+</Configuration>

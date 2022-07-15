@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+Implementation-Title: Stipendi - Web
+Implementation-Version: 1.0.0
+Built-By: 
+Built-Date: 2022-07-15T16:12:07Z
+Class-Path: libs/stipendi-interface.jar libs/log4j-jcl.jar libs/common
+ s-logging.jar libs/log4j-slf4j-impl.jar libs/slf4j-api.jar libs/log4j
+ -jul.jar libs/log4j-api.jar libs/log4j-core.jar libs/log4j-1.2-api.ja
+ r
+Branch: 
+Version: 1.0.0
+Version-Spec: 
+User-Name: giovanni
+Build-Jdk-Spec: 1.8
+Created-By: Maven Archiver 3.4.0
+Ignore-Scanning-Archives: log4j-api.jar
+Customer: Default
+

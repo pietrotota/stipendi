@@ -1,0 +1,19 @@
+Manifest-Version: 1.0
+Implementation-Title: Stipendi - Core
+Implementation-Version: 1.0.0
+Built-By: 
+Built-Date: 2022-07-15T16:12:22Z
+Specification-Title: Stipendi - Core
+Implementation-Vendor-Id: com.cucco
+Class-Path: stipendi-interface.jar log4j-jcl.jar commons-logging.jar l
+ og4j-slf4j-impl.jar slf4j-api.jar log4j-jul.jar log4j-api.jar log4j-c
+ ore.jar log4j-1.2-api.jar
+Branch: 
+Version: 1.0.0
+Version-Spec: 
+User-Name: giovanni
+Build-Jdk: 1.8.0_221
+Specification-Version: 1.0.0
+Created-By: Maven Integration for Eclipse
+Customer: Default
+

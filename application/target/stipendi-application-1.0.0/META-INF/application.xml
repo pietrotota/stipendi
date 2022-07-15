@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application xmlns="http://java.sun.com/xml/ns/javaee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/application_6.xsd" version="6">
+  <display-name>Stipendi 1.0.0</display-name>
+  <module>
+    <web>
+      <web-uri>stipendi.war</web-uri>
+      <context-root>/stipendi</context-root>
+    </web>
+  </module>
+  <module>
+    <ejb>stipendi-core.jar</ejb>
+  </module>
+  <library-directory>libs</library-directory>
+</application>
